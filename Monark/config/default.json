@@ -1,0 +1,12 @@
+{
+    "mongo":{
+        "username" : "",
+        "password": "",
+        "server": "localhost",
+        "port": 27017,
+        "database": "monark"
+    },
+    "key":{
+        "key_jwt":"HHSJUAONSAMLMMLSKA99809aajSIA"
+    }
+}
